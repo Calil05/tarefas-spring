@@ -8,6 +8,6 @@
     <title>Home</title>
 </head>
 <body>
-    <h1>Aoba Spring meu mano</h1>
+    <h1>${mensagem}</h1>
 </body>
 </html>
